@@ -1,0 +1,217 @@
+{
+  "itemId" : "_b99OIg2fEe2c-6H1aQq1hg",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_2_FgxFZ-Eeyo4dGKqwrTBg",
+    "parameterList" : [ {
+      "id" : "_bl_pUbZJEeys7skeuy60Cg",
+      "name" : "Nom_log"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_xrWT0P37EeyKWIy7B-cnSg",
+    "parameterList" : [ {
+      "id" : "_ft8Poe5DEey50-nbg-BUEQ",
+      "name" : "Client"
+    }, {
+      "id" : "_ft8Pk-5DEey50-nbg-BUEQ",
+      "name" : "CNX_SQL_DataBase"
+    }, {
+      "id" : "_ft8Plu5DEey50-nbg-BUEQ",
+      "name" : "CNX_SQL_JDBC_ADD"
+    }, {
+      "id" : "_ft8PlO5DEey50-nbg-BUEQ",
+      "name" : "CNX_SQL_Login"
+    }, {
+      "id" : "_ft8Pke5DEey50-nbg-BUEQ",
+      "name" : "CNX_SQL_Port"
+    }, {
+      "id" : "_ft8Ple5DEey50-nbg-BUEQ",
+      "name" : "CNX_SQL_PWD"
+    }, {
+      "id" : "_ft8Pku5DEey50-nbg-BUEQ",
+      "name" : "CNX_SQL_Schema"
+    }, {
+      "id" : "_ft8PkO5DEey50-nbg-BUEQ",
+      "name" : "CNX_SQL_Server"
+    }, {
+      "id" : "_ft8Pme5DEey50-nbg-BUEQ",
+      "name" : "FTP_HOTE"
+    }, {
+      "id" : "_ft8Pm-5DEey50-nbg-BUEQ",
+      "name" : "FTP_PORT"
+    }, {
+      "id" : "_ft8PnO5DEey50-nbg-BUEQ",
+      "name" : "FTP_PWD"
+    }, {
+      "id" : "_ft8Pne5DEey50-nbg-BUEQ",
+      "name" : "FTP_REP"
+    }, {
+      "id" : "_ft8Pnu5DEey50-nbg-BUEQ",
+      "name" : "FTP_REP_INPUT_ART"
+    }, {
+      "id" : "_8BjwIO9JEeyR_-4cawg_Aw",
+      "name" : "FTP_REP_OUTPUT"
+    }, {
+      "id" : "_ft8Pmu5DEey50-nbg-BUEQ",
+      "name" : "FTP_USER"
+    }, {
+      "id" : "_HPHbgO6LEey50-nbg-BUEQ",
+      "name" : "REP_archive"
+    }, {
+      "id" : "_ft8Pn-5DEey50-nbg-BUEQ",
+      "name" : "REP_Input_local"
+    }, {
+      "id" : "_Wl0CMP4BEeyKWIy7B-cnSg",
+      "name" : "SQL_table_article"
+    }, {
+      "id" : "_ft8Pl-5DEey50-nbg-BUEQ",
+      "name" : "SQL_table_client"
+    }, {
+      "id" : "_ft8PmO5DEey50-nbg-BUEQ",
+      "name" : "SQL_table_commande"
+    } ]
+  }, {
+    "contextName" : "Ariane",
+    "repoId" : "_2_FgxFZ-Eeyo4dGKqwrTBg",
+    "parameterList" : [ {
+      "id" : "_bl_pUbZJEeys7skeuy60Cg",
+      "name" : "Nom_log"
+    } ]
+  }, {
+    "contextName" : "Ariane",
+    "repoId" : "_xrWT0P37EeyKWIy7B-cnSg",
+    "parameterList" : [ {
+      "id" : "_ft8Poe5DEey50-nbg-BUEQ",
+      "name" : "Client"
+    }, {
+      "id" : "_ft8Pk-5DEey50-nbg-BUEQ",
+      "name" : "CNX_SQL_DataBase"
+    }, {
+      "id" : "_ft8Plu5DEey50-nbg-BUEQ",
+      "name" : "CNX_SQL_JDBC_ADD"
+    }, {
+      "id" : "_ft8PlO5DEey50-nbg-BUEQ",
+      "name" : "CNX_SQL_Login"
+    }, {
+      "id" : "_ft8Pke5DEey50-nbg-BUEQ",
+      "name" : "CNX_SQL_Port"
+    }, {
+      "id" : "_ft8Ple5DEey50-nbg-BUEQ",
+      "name" : "CNX_SQL_PWD"
+    }, {
+      "id" : "_ft8Pku5DEey50-nbg-BUEQ",
+      "name" : "CNX_SQL_Schema"
+    }, {
+      "id" : "_ft8PkO5DEey50-nbg-BUEQ",
+      "name" : "CNX_SQL_Server"
+    }, {
+      "id" : "_ft8Pme5DEey50-nbg-BUEQ",
+      "name" : "FTP_HOTE"
+    }, {
+      "id" : "_ft8Pm-5DEey50-nbg-BUEQ",
+      "name" : "FTP_PORT"
+    }, {
+      "id" : "_ft8PnO5DEey50-nbg-BUEQ",
+      "name" : "FTP_PWD"
+    }, {
+      "id" : "_ft8Pne5DEey50-nbg-BUEQ",
+      "name" : "FTP_REP"
+    }, {
+      "id" : "_ft8Pnu5DEey50-nbg-BUEQ",
+      "name" : "FTP_REP_INPUT_ART"
+    }, {
+      "id" : "_8BjwIO9JEeyR_-4cawg_Aw",
+      "name" : "FTP_REP_OUTPUT"
+    }, {
+      "id" : "_ft8Pmu5DEey50-nbg-BUEQ",
+      "name" : "FTP_USER"
+    }, {
+      "id" : "_HPHbgO6LEey50-nbg-BUEQ",
+      "name" : "REP_archive"
+    }, {
+      "id" : "_ft8Pn-5DEey50-nbg-BUEQ",
+      "name" : "REP_Input_local"
+    }, {
+      "id" : "_Wl0CMP4BEeyKWIy7B-cnSg",
+      "name" : "SQL_table_article"
+    }, {
+      "id" : "_ft8Pl-5DEey50-nbg-BUEQ",
+      "name" : "SQL_table_client"
+    }, {
+      "id" : "_ft8PmO5DEey50-nbg-BUEQ",
+      "name" : "SQL_table_commande"
+    } ]
+  }, {
+    "contextName" : "Ariane_dev",
+    "repoId" : "_2_FgxFZ-Eeyo4dGKqwrTBg",
+    "parameterList" : [ {
+      "id" : "_bl_pUbZJEeys7skeuy60Cg",
+      "name" : "Nom_log"
+    } ]
+  }, {
+    "contextName" : "Ariane_dev",
+    "repoId" : "_xrWT0P37EeyKWIy7B-cnSg",
+    "parameterList" : [ {
+      "id" : "_ft8Poe5DEey50-nbg-BUEQ",
+      "name" : "Client"
+    }, {
+      "id" : "_ft8Pk-5DEey50-nbg-BUEQ",
+      "name" : "CNX_SQL_DataBase"
+    }, {
+      "id" : "_ft8Plu5DEey50-nbg-BUEQ",
+      "name" : "CNX_SQL_JDBC_ADD"
+    }, {
+      "id" : "_ft8PlO5DEey50-nbg-BUEQ",
+      "name" : "CNX_SQL_Login"
+    }, {
+      "id" : "_ft8Pke5DEey50-nbg-BUEQ",
+      "name" : "CNX_SQL_Port"
+    }, {
+      "id" : "_ft8Ple5DEey50-nbg-BUEQ",
+      "name" : "CNX_SQL_PWD"
+    }, {
+      "id" : "_ft8Pku5DEey50-nbg-BUEQ",
+      "name" : "CNX_SQL_Schema"
+    }, {
+      "id" : "_ft8PkO5DEey50-nbg-BUEQ",
+      "name" : "CNX_SQL_Server"
+    }, {
+      "id" : "_ft8Pme5DEey50-nbg-BUEQ",
+      "name" : "FTP_HOTE"
+    }, {
+      "id" : "_ft8Pm-5DEey50-nbg-BUEQ",
+      "name" : "FTP_PORT"
+    }, {
+      "id" : "_ft8PnO5DEey50-nbg-BUEQ",
+      "name" : "FTP_PWD"
+    }, {
+      "id" : "_ft8Pne5DEey50-nbg-BUEQ",
+      "name" : "FTP_REP"
+    }, {
+      "id" : "_ft8Pnu5DEey50-nbg-BUEQ",
+      "name" : "FTP_REP_INPUT_ART"
+    }, {
+      "id" : "_8BjwIO9JEeyR_-4cawg_Aw",
+      "name" : "FTP_REP_OUTPUT"
+    }, {
+      "id" : "_ft8Pmu5DEey50-nbg-BUEQ",
+      "name" : "FTP_USER"
+    }, {
+      "id" : "_HPHbgO6LEey50-nbg-BUEQ",
+      "name" : "REP_archive"
+    }, {
+      "id" : "_ft8Pn-5DEey50-nbg-BUEQ",
+      "name" : "REP_Input_local"
+    }, {
+      "id" : "_Wl0CMP4BEeyKWIy7B-cnSg",
+      "name" : "SQL_table_article"
+    }, {
+      "id" : "_ft8Pl-5DEey50-nbg-BUEQ",
+      "name" : "SQL_table_client"
+    }, {
+      "id" : "_ft8PmO5DEey50-nbg-BUEQ",
+      "name" : "SQL_table_commande"
+    } ]
+  } ]
+}

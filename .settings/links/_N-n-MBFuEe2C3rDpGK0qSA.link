@@ -1,0 +1,103 @@
+{
+  "itemId" : "_N-n-MBFuEe2C3rDpGK0qSA",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_2_FgxFZ-Eeyo4dGKqwrTBg",
+    "parameterList" : [ {
+      "id" : "_bl_pUbZJEeys7skeuy60Cg",
+      "name" : "Nom_log"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_HZFkkO5DEey50-nbg-BUEQ",
+    "parameterList" : [ {
+      "id" : "_ft8Poe5DEey50-nbg-BUEQ",
+      "name" : "Client"
+    }, {
+      "id" : "_ft8Pk-5DEey50-nbg-BUEQ",
+      "name" : "CNX_SQL_DataBase"
+    }, {
+      "id" : "_ft8Plu5DEey50-nbg-BUEQ",
+      "name" : "CNX_SQL_JDBC_ADD"
+    }, {
+      "id" : "_ft8PlO5DEey50-nbg-BUEQ",
+      "name" : "CNX_SQL_Login"
+    }, {
+      "id" : "_ft8Pke5DEey50-nbg-BUEQ",
+      "name" : "CNX_SQL_Port"
+    }, {
+      "id" : "_ft8Ple5DEey50-nbg-BUEQ",
+      "name" : "CNX_SQL_PWD"
+    }, {
+      "id" : "_ft8Pku5DEey50-nbg-BUEQ",
+      "name" : "CNX_SQL_Schema"
+    }, {
+      "id" : "_ft8PkO5DEey50-nbg-BUEQ",
+      "name" : "CNX_SQL_Server"
+    }, {
+      "id" : "_ft8Pme5DEey50-nbg-BUEQ",
+      "name" : "FTP_HOTE"
+    }, {
+      "id" : "_ft8Pm-5DEey50-nbg-BUEQ",
+      "name" : "FTP_PORT"
+    }, {
+      "id" : "_ft8PnO5DEey50-nbg-BUEQ",
+      "name" : "FTP_PWD"
+    }, {
+      "id" : "_ft8Pne5DEey50-nbg-BUEQ",
+      "name" : "FTP_REP"
+    }, {
+      "id" : "_ft8Pnu5DEey50-nbg-BUEQ",
+      "name" : "FTP_REP_INPUT_CMD"
+    }, {
+      "id" : "_8BjwIO9JEeyR_-4cawg_Aw",
+      "name" : "FTP_REP_OUTPUT"
+    }, {
+      "id" : "_ft8Pmu5DEey50-nbg-BUEQ",
+      "name" : "FTP_USER"
+    }, {
+      "id" : "_HPHbgO6LEey50-nbg-BUEQ",
+      "name" : "REP_archive"
+    }, {
+      "id" : "_ft8Pn-5DEey50-nbg-BUEQ",
+      "name" : "REP_Input_local"
+    }, {
+      "id" : "_9kDfAPH5Eey6BfKlfqHc1A",
+      "name" : "REP_REJET"
+    }, {
+      "id" : "_ft8Pl-5DEey50-nbg-BUEQ",
+      "name" : "SQL_table_client"
+    }, {
+      "id" : "_ft8PmO5DEey50-nbg-BUEQ",
+      "name" : "SQL_table_commande"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_R7PRoPGZEey6BfKlfqHc1A",
+    "parameterList" : [ {
+      "id" : "_R7o6RvGZEey6BfKlfqHc1A",
+      "name" : "MAIL_CC"
+    }, {
+      "id" : "_R7o6R_GZEey6BfKlfqHc1A",
+      "name" : "MAIL_FROM"
+    }, {
+      "id" : "_R7o6QfGZEey6BfKlfqHc1A",
+      "name" : "MAIL_HOTE"
+    }, {
+      "id" : "_R7o6SPGZEey6BfKlfqHc1A",
+      "name" : "MAIL_OBJECT"
+    }, {
+      "id" : "_R7o6QvGZEey6BfKlfqHc1A",
+      "name" : "MAIL_PORT"
+    }, {
+      "id" : "_R7o6RPGZEey6BfKlfqHc1A",
+      "name" : "MAIL_PWD"
+    }, {
+      "id" : "_R7o6RfGZEey6BfKlfqHc1A",
+      "name" : "MAIL_TO"
+    }, {
+      "id" : "_R7o6Q_GZEey6BfKlfqHc1A",
+      "name" : "MAIL_USR"
+    } ]
+  } ]
+}

@@ -1,0 +1,16 @@
+package routines;
+
+
+
+public class resetSequence999 {
+	
+	 public static int resetSeq( int startValue, int seqValue, String seqName) {
+		 
+		 if (seqValue > 900 ) {
+			 Numeric.resetSequence(seqName, startValue);
+		return Numeric.sequence(seqName, seqValue, 1);
+	    } 
+		 else{
+		return Numeric.sequence(seqName, seqValue, 1);
+	 }}
+}
